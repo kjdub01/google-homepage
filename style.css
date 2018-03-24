@@ -1,0 +1,54 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: #000
+	text-align: center;
+	padding: 15px
+	text-decoration: none; 
+}
+
+li a:hover{
+	color: grey;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 13px;
+}
+
+#container {
+	color: rgb(34, 34, 34);
+	display: block;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	padding-bottom: 35px;
+}
+
+#googlelogo {
+	padding-top: 109px;
+	width: 272px;
+	height: 92px;
+	text-align: -webkit-center;
+}
+
+img {
+	color: rgb(34, 34, 34);
+	display: block;
+	font-family: arial, sans-serif;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: -1px;
+	padding-left: 173px;
+	padding-right: 173px;
+	padding-top: 8px;
+	position: relative;
+}
